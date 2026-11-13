@@ -1,27 +1,32 @@
 # Site spec
 
-Written by the Analyst from: interview. This is the spec of the sample person, Ada Example, who is fictional. The Analyst role replaces it with yours.
+Written by the Analyst from: CV and prep note.
 
 ## Who
-Ada Example, frontend developer who likes fast, accessible web pages.
+Alena Yugai, Computer Science Student & Tech Community Organizer.
+
+## Goal
+A job / internship and connecting with a tech community.
 
 ## For whom
-Recruiters and teams hiring a junior frontend developer.
+(a guess) Tech recruiters, software engineering hiring managers, and developer community peers.
 
 ## What a visitor should do
-Look at the projects on GitHub, then write an email.
+(a guess) Contact Alena via email or connect with her on LinkedIn and GitHub.
 
 ## Language
 English (en).
 
 ## Sections
-- Bio: two paragraphs.
-- Projects: two.
-- Links: GitHub, LinkedIn, email.
-- CV: experience, education and skills.
+- First screen: pitch, 2 highlights (GPA 4.11 / KIMEP grant, Poster Competition winner), availability action link, Almaty, and 5 languages (Russian, English, Turkish, Kyrgyz, Korean).
+- Bio: 2 paragraphs introducing studies at KIMEP, passion for software/AI/networking, and community leadership.
+- Projects: none yet (skipped on request; can be added later).
+- Links: GitHub, LinkedIn, Email.
+- CV: experience (Peer-tutor at SLSC), education (KIMEP University, Bishkek Aichurok High School), and 8 skills (C++, Python, Linux, Bash, Networking, Wireshark, AI, Problem Solving).
+- Certifications and events: 2 certifications (NDG Linux Unhatched, AIP-210) and 4 events including DevFest Almaty '26 workshop and Google Developers on Campus leadership.
 
 ## Left out on purpose
-Nothing.
+Specific projects were skipped on request since repository URLs were not available yet. Phone number and postal address left out as requested in note.
 
 ## Later
-A blog, as an optional module.
+Adding showcase projects with GitHub links and repository demos.

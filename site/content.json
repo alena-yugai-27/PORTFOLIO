@@ -1,79 +1,117 @@
 {
   "$schema": "./content.schema.json",
   "language": "en",
-  "name": "Ada Example",
-  "headline": "Frontend developer who likes fast, accessible web pages",
-  "photo": {
-    "src": "assets/avatar.svg",
-    "alt": "Ada Example's avatar: a simple drawing of a head and shoulders in two shades of grey"
-  },
-  "pitch": "I build small, fast websites that everyone can use, and I explain every choice in plain words.",
+  "name": "Alena Yugai",
+  "headline": "Computer Science Student & Tech Community Organizer",
+  "pitch": "2nd-year Computer Science student with a strong foundation in C++, Python, networking, and AI fundamentals.",
   "highlights": [
-    { "text": "Every page I look after scores 100 for accessibility in Lighthouse" },
-    { "text": "Five years of teaching maths: I make technical choices easy to follow" },
-    { "text": "Two open-source projects on GitHub", "url": "https://github.com/octocat" }
+    { "text": "GPA 4.11 / 4.33 & KIMEP Presidential Grant Holder for 4 years" },
+    { "text": "First place, Research Proposal Poster Competition at KIMEP University" }
   ],
   "availability": {
-    "text": "Open to junior frontend roles from January 2027.",
+    "text": "Open to software engineering internships and tech community initiatives.",
     "actionLabel": "Write to me",
-    "actionUrl": "mailto:ada@example.com"
+    "actionUrl": "mailto:alena.yugai877@gmail.com"
   },
-  "location": { "city": "Milan", "country": "Italy", "timeZone": "Europe/Rome" },
+  "location": {
+    "city": "Almaty",
+    "country": "Kazakhstan",
+    "timeZone": "Asia/Almaty"
+  },
   "languages": [
-    { "name": "English", "level": "native" },
-    { "name": "Italian", "level": "B2" }
+    { "name": "Russian", "level": "native" },
+    { "name": "English", "level": "C1" },
+    { "name": "Turkish", "level": "B2" },
+    { "name": "Kyrgyz", "level": "B2" },
+    { "name": "Korean", "level": "A2" }
   ],
   "bio": [
-    "I build small, fast websites and the tools around them. Before I wrote code, I taught maths, so I still enjoy explaining things simply.",
-    "This is a sample portfolio of a fictional person. Replace it with your own story."
-  ],
-  "projects": [
-    {
-      "title": "Tide Tables",
-      "description": "A tiny web app that shows today's tides for a chosen harbour, built with plain HTML, CSS and JavaScript.",
-      "github": "https://github.com/octocat/Hello-World"
-    },
-    {
-      "title": "Reading Log",
-      "description": "A static site that lists the books I read, generated from one JSON file.",
-      "github": "https://github.com/octocat/Spoon-Knife",
-      "url": "https://octocat.github.io/Spoon-Knife/"
-    }
+    "I am a second-year Computer Science student at KIMEP University with a passion for software engineering, networking fundamentals, and artificial intelligence.",
+    "Beyond academics, I actively organize tech events as an Organizer for Google Developers on Campus KIMEP and serve as a peer-tutor helping fellow students master core programming principles."
   ],
   "links": [
-    { "label": "GitHub", "url": "https://github.com/octocat" },
-    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/ada-example" },
-    { "label": "Email", "url": "mailto:ada@example.com" }
+    { "label": "GitHub", "url": "https://github.com/alena-yugai-27" },
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/alena-yugai-b587b441b/" },
+    { "label": "Email", "url": "mailto:alena.yugai877@gmail.com" }
   ],
   "cv": {
     "experience": [
       {
-        "role": "Junior Frontend Developer",
-        "organization": "Example Studio",
-        "start": "2024",
+        "role": "Peer-tutor",
+        "organization": "SLSC (Student Learning Support Center), KIMEP University",
+        "start": "2026-09",
         "end": "present",
-        "summary": "Build and maintain marketing sites; brought every page to a Lighthouse accessibility score of 100."
-      },
-      {
-        "role": "Maths Teacher",
-        "organization": "Example Secondary School",
-        "start": "2019",
-        "end": "2024",
-        "summary": "Taught maths to students aged 11 to 16 and ran the after-school coding club."
+        "summary": "Mentored students through core software engineering tracks including Principles of Programming, while driving academic success in Digital and AI fundamentals."
       }
     ],
     "education": [
       {
-        "title": "Web Development Bootcamp",
-        "organization": "Example Academy",
-        "year": "2023"
+        "title": "Bachelor of Science in Computer Science",
+        "organization": "KIMEP University",
+        "year": "2025"
       },
       {
-        "title": "BSc Mathematics",
-        "organization": "Example University",
-        "year": "2018"
+        "title": "High School Diploma",
+        "organization": "Bishkek Aichurok High School",
+        "year": "2024"
       }
     ],
-    "skills": ["HTML", "CSS", "JavaScript", "Accessibility", "Git"]
+    "skills": [
+      "C++",
+      "Python",
+      "Linux",
+      "Bash",
+      "Networking",
+      "Wireshark",
+      "Artificial Intelligence",
+      "Problem Solving"
+    ]
+  },
+  "certifications": [
+    {
+      "name": "NDG Linux Unhatched",
+      "issuer": "Cisco Networking Academy (NetAcad)",
+      "kind": "course",
+      "issued": "2026-10"
+    },
+    {
+      "name": "Certified Artificial Intelligence Practitioner (AIP-210)",
+      "issuer": "CertNexus",
+      "kind": "exam",
+      "issued": "2026-11"
+    }
+  ],
+  "events": [
+    {
+      "name": "DevFest Almaty '26",
+      "date": "2026-11-13",
+      "city": "Almaty",
+      "role": "attendee",
+      "sessions": [
+        { "type": "workshop", "title": "AI-Native Web Development, Hands-On" }
+      ]
+    },
+    {
+      "name": "Google Developers on Campus KIMEP",
+      "date": "2026-07",
+      "city": "Almaty",
+      "role": "organizer"
+    },
+    {
+      "name": "Chess Club Activities & Tournaments",
+      "date": "2026-05",
+      "city": "Almaty",
+      "role": "organizer"
+    },
+    {
+      "name": "Research Proposal Poster Competition",
+      "date": "2026-04",
+      "city": "Almaty",
+      "role": "attendee"
+    }
+  ],
+  "builtAt": {
+    "event": "DevFest Almaty '26",
+    "date": "2026-11-13"
   }
 }
